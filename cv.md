@@ -14,11 +14,11 @@ I enjoy working in team enviorement and get along well the people.
 - GIT
 ## Code Example
 ```
-    <ul>
+        <ul>
         <li>Paris</li>
         <li>London</li>
         <li>Milan</li>
-    </ul>        
+        </ul>        
 ```
 ## Education
 - Kygyz State National University, Faculty of Foreign Languages
